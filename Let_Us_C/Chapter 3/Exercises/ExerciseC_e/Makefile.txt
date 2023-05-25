@@ -1,0 +1,2 @@
+Test:main1.c
+	gcc -o Test main1.c

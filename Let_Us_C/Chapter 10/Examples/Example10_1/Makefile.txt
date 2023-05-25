@@ -1,0 +1,4 @@
+#make file
+
+all: #target name
+	gcc main.c -o main
